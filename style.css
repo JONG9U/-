@@ -92,10 +92,3 @@ input[type="range"]::-webkit-slider-runnable-track {
   border: none;
   background: transparent;
 }
-
-@media screen and (min-device-width: 375px) and (min-device-height: 812px) {
-  .canvas {
-    width: 80vmin;
-    height: 80vmin;
-  }
-}
